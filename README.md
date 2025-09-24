@@ -26,8 +26,8 @@ To run this project, you need to have Python 3 installed. You can set up the env
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
-    cd <repository-name>
+    git clone <[repository-url](https://github.com/a-nadafian/Housing-Price-Prediction.git)>
+    cd <Housing-Price-Prediction>
     ```
 
 2.  **Install the dependencies:**
